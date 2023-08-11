@@ -8,4 +8,3 @@
 * **GUI programming:** Python programs that create graphical user interfaces (GUIs), such as a program to display a simple calculator or a program to play a game.
 * **Web development:** Python programs that create web applications, such as a program to display a blog or a program to sell products online.
 
-These are just a few examples of basic Python programs that you can add to the list. There are many other possibilities, and the best way to learn is to experiment and try different things.
