@@ -1,3 +1,5 @@
+# Finding Maximum and Minimum Values in a List:
+# list is already given in list
 def find_max_min(lst):
     max_val = max(lst)
     min_val = min(lst)
