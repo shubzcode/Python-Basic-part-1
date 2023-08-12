@@ -5,6 +5,6 @@ def remove_element(lst, element):
     return lst
 
 my_list = [10, 20, 30, 40, 50]
-element_to_remove = int(input("Enter an element to remove from the list: "))
+element_to_remove = int(input("Enter an element to remove from the list: "))#user inpute code 
 updated_list = remove_element(my_list, element_to_remove)
 print("Updated list:", updated_list)
