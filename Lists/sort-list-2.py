@@ -1,4 +1,4 @@
-# sort list another ex
+# sort list another example
 def sort_list(lst):
     sorted_lst = sorted(lst)
     return sorted_lst
