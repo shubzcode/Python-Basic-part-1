@@ -13,7 +13,7 @@ class Circle:
         return 2 * 3.14 * self.radius
 
 # Creating a circle object
-circle = Circle(int(input("Enter the value"))) 
+circle = Circle(int(input("Enter the value"))) # user input 
 
 print("Circle with radius", circle.radius)
 print("Area:", circle.area())
