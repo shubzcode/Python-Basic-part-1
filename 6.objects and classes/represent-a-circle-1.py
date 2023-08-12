@@ -13,7 +13,7 @@ class Circle:
         return 2 * 3.14 * self.radius
 
 
-circle = Circle(1) #area of a c
+circle = Circle(1) #area of a circle 
 
 print(circle.area())
 print(circle.perimeter()) 
